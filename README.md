@@ -1,5 +1,6 @@
 # Minimax PHP
 
+![Tests](https://github.com/acround/minimax/actions/workflows/tests.yml/badge.svg)
 PHP library for [Minimax.rs](https://minimax.rs) API.
 Must be used in Yii2 environment.
 

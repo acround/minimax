@@ -1,2 +1,4 @@
 .vscode
 nbproject
+composer.lock
+vendor

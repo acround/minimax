@@ -1,11 +1,11 @@
 {
-    "name": "your-vendor/minimax-php",
+    "name": "acround/minimax-php",
     "description": "PHP library for Minimax.rs API",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
+            "name": "ACRound",
             "email": "you@example.com"
         }
     ],
@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "YourVendor\\Minimax\\": "src/"
+            "acround\\Minimax\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "YourVendor\\Minimax\\Tests\\": "tests/"
+            "acround\\Minimax\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable"
